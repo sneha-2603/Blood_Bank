@@ -18,18 +18,20 @@ Follow these steps to set up the Meme Generator project on your local machine:
 !.Clone the repository to your local machine using Git:
 
 git clone https://github.com/sneha-2603/Blood_Bank
+
 2.Navigate to the project directory:
 
 cd blood_bank
+
 3.Install the project dependencies using npm or yarn:
 
 npm install
 npm i bcryptjs colors concurrently cors dotenv mongoose morgan nodemon jsonwebtoken
+
 4.Start the development server:
 
 npm start
 npm run dev
-# or
-yarn start
+
 
  If you encounter any issues or have suggestions for improvements, please feel free to open an issue or contribute to the project.
