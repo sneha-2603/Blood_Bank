@@ -17,10 +17,10 @@ Follow these steps to set up the Meme Generator project on your local machine:
 
 !.Clone the repository to your local machine using Git:
 
-git clone https://github.com/sneha-2603/meme_craft
+git clone https://github.com/sneha-2603/Blood_Bank
 2.Navigate to the project directory:
 
-cd meme_craft
+cd blood_bank
 3.Install the project dependencies using npm or yarn:
 
 npm install
