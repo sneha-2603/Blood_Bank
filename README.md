@@ -15,7 +15,7 @@ Scalable Communication: RESTful APIs facilitate seamless and reliable communicat
 
 Follow these steps to set up the Meme Generator project on your local machine:
 
-!.Clone the repository to your local machine using Git:
+1.Clone the repository to your local machine using Git:
 
 git clone https://github.com/sneha-2603/Blood_Bank
 
