@@ -19,8 +19,9 @@ Welcome to the MERN Blood Bank Application, built with a secure, role-based arch
 
 ![Screenshot 2023-12-06 145819](https://github.com/sneha-2603/Blood_Bank/assets/91029405/da5ba798-02b7-4eb0-9340-cca674d57e29)
 
+![Screenshot 2023-12-06 145819](https://github.com/sneha-2603/Blood_Bank/assets/91029405/a171204c-0573-4772-bd40-246b85c738af)
 
-![Screenshot 2023-12-06 145739](https://github.com/sneha-2603/Blood_Bank/assets/91029405/deea7bcc-e721-46d3-8d36-0ecfce9f5496)
+![Screenshot 2023-11-05 212733](https://github.com/sneha-2603/Blood_Bank/assets/91029405/70f3b621-998d-4ecd-8f65-108ca62cc059)
 
 
 
